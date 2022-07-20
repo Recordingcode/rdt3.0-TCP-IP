@@ -17,9 +17,9 @@
    
    
 # :mag: Simulation result
-   |Terminal name|Simulation result|
-   |--|--|
-   |MySender.c|<img src="https://user-images.githubusercontent.com/106147142/178687685-48a5a76e-35dc-4950-a278-8a46dc17fe63.jpg" width="400">|
+   |Terminal name|Simulation result|explanation|
+   |--|--|--|
+   |MySender.c|<img src="https://user-images.githubusercontent.com/106147142/178687685-48a5a76e-35dc-4950-a278-8a46dc17fe63.jpg" width="400">|1. You can see the sequence numbers and toggled indicator <br> 2.|
    |MyReceiver.c|<img src="https://user-images.githubusercontent.com/106147142/178687895-989ed269-30c4-46ba-833f-d9735b15659f.jpg" width="400">|
    
    
